@@ -3,7 +3,18 @@
 Pytorch training code for OpenGAN and the metric feature extractor.
 https://arxiv.org/pdf/2003.08074.pdf
 
+Citation:
+```
+@inproceedings{ditria2020opengan,
+  title={OpenGAN: Open Set Generative Adversarial Networks},
+  author={Ditria, Luke and Meyer, Benjamin J and Drummond, Tom},
+  booktitle={Asian Conference on Computer Vision (ACCV)}
+  year={2020},
+}
+```
+
 Tested with Python 3.5.2, Pytorch 1.1 and Ubuntu 16.04.6.
+
 
 # Usage
 ## Datasets

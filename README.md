@@ -1,6 +1,7 @@
 # About
 
 Pytorch training code for OpenGAN and the metric feature extractor.
+https://arxiv.org/pdf/2003.08074.pdf
 
 Tested with Python 3.5.2, Pytorch 1.1 and Ubuntu 16.04.6.
 
@@ -32,3 +33,5 @@ Other training settings (e.g. number of training/novel classes - default is set 
 python3 train_gan.py --help
 ```
 or by looking in train_gan.py.
+
+
